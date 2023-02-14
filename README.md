@@ -6,6 +6,8 @@ Way back when, I used to make offline things, mostly furniture :chair:
 
 I [blog](http://stephenlewis.me/blog) sporadically, and [stream](https://twitch.tv/stephencodes) even less. I'm also really, really [bad at chess](https://www.chess.com/member/rndsl), much to my constant annoyance.
 
+<hr />
+
 ### 🧑‍💻 Projects
 
 My current side project is [Hap](https://github.com/monooso/hap), a real-time monitoring tool for your most important business metrics. Or least important, it's really up to you.
