@@ -20,12 +20,24 @@ There are a handful of case studies on [my business site](https://manifest.uk.co
 
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=monooso&show_icons=true&count_private=true&theme=rose_pine"
+    srcset="https://github-readme-stats.vercel.app/api?username=monooso&show_icons=true&count_private=true&theme=dark&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=monooso&show_icons=true&count_private=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=monooso&show_icons=true&count_private=true&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=monooso&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=monooso&show_icons=true&count_private=true&hide_border=true" />
+</picture>
+
+<picture>
+  <source 
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=monooso&theme=dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=monooso"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monooso" />
 </picture>
