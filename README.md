@@ -4,7 +4,7 @@ I'm Stephen. I build online things using [boring technologies](https://boringtec
 
 Way back when, I used to make offline things, mostly furniture :chair:
 
-I [blog](http://stephenlewis.me/blog) sporadically, and [stream](https://twitch.tv/stephencodes) even less. I'm also really, really [bad at chess](https://www.chess.com/member/rndsl), much to my annoyance.
+I [blog](http://stephenlewis.me/blog) sporadically, and [stream](https://twitch.tv/stephencodes) even less. I'm also really, really bad at chess, much to my annoyance.
 
 <hr />
 
