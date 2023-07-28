@@ -8,14 +8,6 @@ I [blog](http://stephenlewis.me/blog) sporadically, and [stream](https://twitch.
 
 <hr />
 
-### 🧑‍💻 Projects
-
-My current side project is [Hap](https://github.com/monooso/hap), a real-time monitoring tool for your most important business metrics. Or least important, it's really up to you.
-
-There are a handful of case studies on [my business site](https://manifest.uk.com/projects), but if you've made it this far you probably just want to [see the code](https://github.com/monooso?tab=repositories).
-
-<hr />
-
 ### 🎢 Obligatory GitHub stats
 
 <picture>
